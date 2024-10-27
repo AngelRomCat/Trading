@@ -1,0 +1,11 @@
+vsc
+cd D:\D___\ARANYES\Yerbalife_y_Libros\trading_bolsa\calculo_de_probabilidades_de_patrones_CORE\Trading
+git add .
+git pull
+git commit -m "Després del First"
+git push
+
+
+
+VEURE AQUÍ: https://github.com/AngelRomCat/Trading
+

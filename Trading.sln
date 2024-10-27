@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S05InterfazConsola", "S05InterfazConsola\S05InterfazConsola.csproj", "{99AE4052-0F5A-4F9B-A7C7-2FA7EBFDB2C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S00DataDll", "S00DataDll\S00DataDll.csproj", "{8826E3C3-5505-4CD5-8D88-302245F21BE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99AE4052-0F5A-4F9B-A7C7-2FA7EBFDB2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AE4052-0F5A-4F9B-A7C7-2FA7EBFDB2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AE4052-0F5A-4F9B-A7C7-2FA7EBFDB2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AE4052-0F5A-4F9B-A7C7-2FA7EBFDB2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8826E3C3-5505-4CD5-8D88-302245F21BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8826E3C3-5505-4CD5-8D88-302245F21BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8826E3C3-5505-4CD5-8D88-302245F21BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8826E3C3-5505-4CD5-8D88-302245F21BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F47378BC-DCC6-443A-9AAF-3C5E0261F2EB}
+	EndGlobalSection
+EndGlobal
