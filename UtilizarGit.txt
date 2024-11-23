@@ -2,7 +2,7 @@ vsc
 cd D:\D___\ARANYES\Yerbalife_y_Libros\trading_bolsa\calculo_de_probabilidades_de_patrones_CORE\Trading
 git add .
 git pull
-git commit -m "Després del First"
+git commit -m "//2024_11_23_Mi_nombre_es_J.O.S.E.P"
 git push
 
 
